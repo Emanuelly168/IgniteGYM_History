@@ -17,11 +17,19 @@ npx expo start
 ## Estrutura
 
 IgniteGym_History/
+
 ├── App.tsx
+
 ├── package.json
+
 ├── app.json
+
 ├── babel.config.js
+
 ├── tsconfig.json
+
 ├── package-lock.json
+
 ├── .gitignore
+
 └── README.md
