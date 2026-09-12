@@ -1,23 +1,27 @@
-IGNITE GYM - HISTORY
+# IgniteGym History
 
-1. Abra esta pasta no VS Code.
-2. Abra o terminal do VS Code.
-3. Execute:
-   npm install
+Tela de histórico de exercícios de um aplicativo de academia, desenvolvida com React Native e Expo.
 
-4. Para abrir no navegador:
-   npx expo start --web
+## Tecnologias
 
-5. O Expo abrirá a aplicação no navegador.
-   Para simular um celular no Chrome:
-   - pressione F12;
-   - clique no ícone de celular/tablet (Toggle device toolbar);
-   - escolha, por exemplo, iPhone 12 Pro.
+- React Native
+- Expo
+- TypeScript
 
-Também é possível executar:
-   npx expo start
+## Como executar
 
-Observação:
-- Este projeto é propositalmente simples.
-- As telas são independentes e não possuem navegação entre Login e History.
-- Os botões possuem apenas interações visuais/alertas para demonstração.
+npm install
+
+npx expo start
+
+## Estrutura
+
+IgniteGym_History/
+├── App.tsx
+├── package.json
+├── app.json
+├── babel.config.js
+├── tsconfig.json
+├── package-lock.json
+├── .gitignore
+└── README.md
