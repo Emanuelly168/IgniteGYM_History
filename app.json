@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Ignite Gym History",
+    "slug": "ignite-gym-history",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "web": { "bundler": "metro" }
+  }
+}
